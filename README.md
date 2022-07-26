@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @W4nds
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning Python adn Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- @W4nds
+- trying to: learn 3d 
+- I’m currently learning Python and Rust
 <div>
   <img aling="center" alt="Rafa-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img aling="center" alt="Rafa-Rust" heigth="30" width="40" src="https://www.rust-lang.org/logos/rust-logo-64x64.png">
